@@ -19,3 +19,7 @@ The challenges we aim to solve:
    While some platforms offer crash reporting or analytics, very few provide an all-in-one solution. DriveSafe integrates multiple functionalities, such as accident reporting, user analytics, and interactive tools, into a cohesive and user-friendly platform.
 4. Lack of public engagement in safe driving practices:
    Promoting road safety requires active user participation. DriveSafe fosters engagement through interactive quizzes, real-time voice commands, and AI-powered tips, making road safety education accessible and engaging.
+
+## Demo Video
+Check out or live demo to see DriveSafe in action:
+https://drive.google.com/file/d/1a06AlrZpg3JLccX7mkAtBcOkD3ZD70Mj/view?usp=sharing
